@@ -21,9 +21,9 @@ Tanbién se puede realizar el log in desde swagger para probar las apis, haciend
 
 Clonar repo y posicionarme en el: 
 ```bash
-$ git clone https://github.com/eneacosta/coins-front.git
+$ git clone https://github.com/eneacosta/project-deploy.git
 
-$ cd coins-front
+$ cd project-deploy
 ```
 
 Modificar variable `DOMAIN`  archivo `.env`, por el dominio o ip publica de donde esta corriendo el sistema (`localhost` en caso de correrlos localmente).
